@@ -1,0 +1,17 @@
+#dov{
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    text-shadow: 2px 2px 4px rgb(255, 255, 255); 
+}
+footer {
+     background-color: black;
+     padding: 1px;
+     margin: 1px;
+}
+footer > p {
+    color: white;
+    text-align: center;
+}
